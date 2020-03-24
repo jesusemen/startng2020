@@ -1,2 +1,6 @@
 Jesusemen Ehimiyein
 jesusemen@protonmail.com
+Slack Username: @techyjay
+Backend: Python, node.js
+Mobile: Flutter
+Design: UI/UX
